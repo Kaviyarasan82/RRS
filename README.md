@@ -1,2 +1,5 @@
-# RRS
-The Railway Reservation System offers a user-friendly platform for efficient booking, real-time tracking, and robust administrative control. Leveraging advanced technologies, it enhances operational efficiency, ensuring railways meet market demands and improve service quality.
+# Railway-Reservation-System-PHP
+Designed a Railway ticket booking, reservation and cancellation system for users that wish to
+travel via the Indian Railways.
+Technologies used: HTML, PHP, Javascript, MySQL database.
+"# DBMS-project" 
